@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+a {
+    text-decoration:none;
+    color:orangered;
+}
+a:hover{
+    color:orange;
+}
+span{
+    background-color:gray;
+}
